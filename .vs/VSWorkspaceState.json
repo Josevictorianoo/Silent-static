@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\silent-static",
+    "\\silent-static\\.github",
+    "\\silent-static\\.github\\workflows",
+    "\\silent-static\\include",
+    "\\silent-static\\include\\sh",
+    "\\silent-static\\src",
+    "\\silent-static\\tests"
+  ],
+  "SelectedNode": "\\silent-static\\src\\command.cpp",
+  "PreviewInSolutionExplorer": false
+}
